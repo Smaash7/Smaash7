@@ -16,7 +16,7 @@
 - 📫 Reach me @ **goncalo.cr190@gmail.com**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,git,github" />
+  <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,git,github,java" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="48" alt="Excel" />
   <img src="https://img.icons8.com/color/48/power-bi.png" height="48" alt="Power BI" />
 </p>
