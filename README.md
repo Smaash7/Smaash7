@@ -13,7 +13,7 @@
 </p>
 
 - 🎓 Background in **Computer Engineering**, now studying **Business Analytics** @ **DTU (Technical University of Denmark)**
-- 📫 Reach me at **goncalo.cr190@gmail.com**
+- 📫 Reach me @ **goncalo.cr190@gmail.com**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,git,github" />
