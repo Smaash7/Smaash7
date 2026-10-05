@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Smaash7&color=7aa2f7&label=Profile+views" />
 </p>
 
-- 🎓 Background in **Computer Engineering**, now studying Business Analytics **DTU**
+- 🎓 Background in **Computer Engineering**, now studying **Business Analytics** **DTU**
 - 📫 Reach me at **goncalo.cr190@gmail.com**
 
 <p align="center">
